@@ -1,4 +1,4 @@
-# Woche 08 – Datenstrukturen (Java)
+# Datenstrukturen (Java)
 Java learning tasks from IT course (Austria).
 
 ## Aufgaben
